@@ -1,0 +1,37 @@
+_repo: Verzamelde-Tooneelspelen-en-opstellen-over-tooneel-deel-1-2_75358
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Heijermans, Herman
+    aliases:
+    - Heyermans, Herman
+    - Falkland, Samuel
+    - Sperber, Heinz
+    - Jelakowitch, Ivan
+    birthdate: 1864
+    deathdate: 1924
+    gutenberg_agent_id: '9057'
+    url: http://www.gutenberg.org/2009/agents/9057
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Herman_Heijermans
+    - https://nl.wikipedia.org/wiki/Herman_Heijermans
+description: ''
+gutenberg_issued: '2025-02-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75358'
+language: nl
+pgterms:marc905: 20181214140352heijermans
+pgterms:marc906: '1909'
+pgterms:marc907: NL
+production_note: Jeroen Hellingman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net/ for Project Gutenberg (This book was produced from scanned
+  images of public domain material from the Google Books project.)
+publication_note: '  $aAmsterdam :$bS.L. van Looy, $c1909, pubdate 1911.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Verzamelde Tooneelspelen en opstellen-over-tooneel, deel 1-2
+url: http://www.gutenberg.org/ebooks/75358
