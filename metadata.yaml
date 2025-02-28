@@ -1,5 +1,8 @@
 _repo: Verzamelde-Tooneelspelen-en-opstellen-over-tooneel-deel-1-2_75358
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75358-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Heijermans, Herman
@@ -16,6 +19,8 @@ creator:
     - https://en.wikipedia.org/wiki/Herman_Heijermans
     - https://nl.wikipedia.org/wiki/Herman_Heijermans
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75358#Verzamelde-Tooneelspelen-en-opstellen-over-tooneel-deel-1-2
 gutenberg_issued: '2025-02-12'
 gutenberg_type: Text
 identifiers:
